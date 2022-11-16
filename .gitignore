@@ -4,6 +4,7 @@
 journal.html
 journal.pdf
 journal.tex
+**/.ipynb_checkpoints
 
 # Object files
 *.o
